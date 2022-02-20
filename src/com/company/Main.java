@@ -7,5 +7,6 @@ public class Main {
         UltraBoost shoe1 = new UltraBoost("Plastic", "Canvas", "Black/White", true);
 
         shoe1.cleanWithWater();
+        shoe1.tieShoes();
     }
 }
